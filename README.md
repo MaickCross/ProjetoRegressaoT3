@@ -47,5 +47,5 @@ Este projeto implementa um modelo de Regressão Linear com o objetivo de prever 
 - **Coeficiente de Determinação (R²)**: Indica a qualidade do ajuste do modelo aos dados.
 
 ## Autores e Colaboradores
-- Willian Rullian Ferreira dos Anjos - [@usuario1](https://github.com/usuario1)
-- Maick Vieira Alves - [@usuario2](https://github.com/usuario2)
+- Willian Rullian Ferreira dos Anjos - [@usuario1](https://github.com/WillianRullian)
+- Maick Vieira Alves - [@usuario2](https://github.com/MaickCross)
