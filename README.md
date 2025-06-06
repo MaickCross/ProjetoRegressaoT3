@@ -25,7 +25,7 @@ Este projeto implementa um modelo de Regressão Linear com o objetivo de prever 
    ```
 
 ## Como Executar
-1. Certifique-se de que você tem o Python 3.x instalado.
+1. Certifique-se de ter o Python 3.x instalado.
 2. Abra o arquivo `.ipynb` ou o script `.py` em seu ambiente de preferência (como Jupyter Notebook ou Google Colab).
 3. Execute as células ou blocos de código sequencialmente.
 
